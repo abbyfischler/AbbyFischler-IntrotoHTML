@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  color:white;
+}
+div{
+  background-color:#C8E7FF;
+  padding:10px;
+  box-sizing: border-box;
+  width: 50%;
+  border: 5px #DEAAFF;
+  border-style:dotted solid dashed double;
+  align:center;
+}
+.name{
+  background-color:#f3c4fb;
+}
+.bio{
+font-family: Didot;
+}
